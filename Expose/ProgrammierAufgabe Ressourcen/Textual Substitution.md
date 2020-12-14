@@ -1,4 +1,0 @@
-
-# 
-
-## External Pointer scheme
